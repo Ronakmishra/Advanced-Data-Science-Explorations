@@ -115,8 +115,36 @@ Data_Science_Assignment-main/
 ├── netflix_titles.csv                    # Netflix dataset
 ```
 
+## References
+
+Help of various resources and references were taken. They are mentioned below:
+
+1. https://github.com/aiskunks/YouTube/blob/main/A_Crash_Course_in_Statistical_Learning/ML_Data_Cleaning_and_Feature_Selection/ML_Data_Cleaning_and_Feature_Selection_Abalone.ipynb
+2. https://www.kaggle.com/code/abhi011097/eda-feature-engineering-logistic-regression
+3. https://www.kaggle.com/code/tirendazacademy/classification-analysis-with-xgboost
+4. https://www.kaggle.com/code/aditimulye/adult-income-dataset-from-scratch
+5. Sklearn documentation
+6. Imblearn documentation
+7. H2O.ai: https://docs.h2o.ai/
+8. GitHub Notebook: https://github.com/aiskunks/YouTube/blob/main/9.%20A_Crash_Course_in_Statistical_Learning/AutoML/CC_Kaggle_AutoML_Regression_Melbourne_Housing.ipynb
+9. GLM: https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/glm.html
+10. XGBoost: https://xgboost.readthedocs.io/en/stable/
+11. Grid Search: https://docs.h2o.ai/h2o/latest-stable/h2o-docs/grid-search.html
+12. GitHub Notebook: https://github.com/ajhalthor/model-interpretability/blob/main/Shap%20Values.ipynb
+13. https://www.datacamp.com/tutorial/introduction-to-shap-values-machine-learning-interpretability
+14. https://acerta.ai/blog/understanding-machine-learning-with-shap-analysis/
+15. https://christophm.github.io/interpretable-ml-book/shap.html
+
 ---
 
-## License
+## MIT License](LICENSE)
 
-This repository is licensed under the [MIT License](LICENSE). Please ensure proper citation of any code or datasets used in your projects.
+Copyright (c) 2024 Ronak Mishra
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+

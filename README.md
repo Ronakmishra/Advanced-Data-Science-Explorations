@@ -44,6 +44,8 @@ This repository contains the projects and analyses completed for exploring and a
   - Impact of regularization and hyperparameter tuning.
 - **Notebook**: [AutoML](https://github.com/Ronakmishra/Advanced-Data-Science-Explorations/blob/main/AutoML_diabetesPrediction.ipynb)
 
+![AutoML](https://media.giphy.com/media/f9ggFwXxIb8K4spuUI/giphy.gif)
+
 ### 🧠 Project 3: Model Interpretability
 
 - **Objective**: Interpret models using SHAP values and compare linear and tree-based models.
@@ -53,7 +55,7 @@ This repository contains the projects and analyses completed for exploring and a
   - Perform SHAP analysis to understand feature importance.
 - **Notebook**: [Model Interpretability](https://github.com/Ronakmishra/Advanced-Data-Science-Ex)
 
-![SHAP Analysis](https://media.giphy.com/media/l3V0sNZ0NGomeurCM/giphy.gif)
+![Model Interpretability](https://media.giphy.com/media/5xtDarqCp0eomNCqPj6/giphy.gif)
 
 ### 📊 Project 4: Comprehensive Report
 
@@ -63,6 +65,8 @@ This repository contains the projects and analyses completed for exploring and a
   - Provide insights through tables, graphs, and charts.
 - **Notebook**: [Comprehensive Report](https://github.com/Ronakmishra/Advanced-Data-Science-Explorations/blob/main/FINAL_REPORT_Ronak.ipynb)
 
+![Comprehensive Report](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+
 ### 🔢 Project 5: Neural Network Classification
 
 - **Objective**: Build a neural network classifier for the TMNIST dataset.
@@ -71,7 +75,7 @@ This repository contains the projects and analyses completed for exploring and a
   - Achieve high accuracy (>90%) with unique methodology and clear explanations.
 - **Notebook**: [Neural Network Classification](https://github.com/Ronakmishra/Advanced-Data-Science-Explorations/blob/main/DS_TypeFace_TMNIST_002834798.ipynb)
 
-![Neural Networks](https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif)
+![Neural Networks](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)
 
 ### 🤖 Project 6: CustomGPT
 
@@ -79,11 +83,14 @@ This repository contains the projects and analyses completed for exploring and a
 - **Description**: A chatbot designed to guide students in data science concepts and projects.
 - **Link**: [CustomGPT - Data Science Mentor](https://chat.openai.com/g/g-SXjfXUTqo-data-science-mentor)
 
+![CustomGPT](https://media.giphy.com/media/3o7WIxFWOmRrEy2m8o/giphy.gif)
+
 ---
 
 ## 📁 Datasets
-2. **Diabetes Dataset** (`diabetes.csv`): Health data for predictive modeling.
-3. **Netflix Titles Dataset** (`netflix_titles.csv`): Data on Netflix shows and movies for analysis.
+
+1. **Diabetes Dataset** (`diabetes.csv`): Health data for predictive modeling.
+2. **Netflix Titles Dataset** (`netflix_titles.csv`): Data on Netflix shows and movies for analysis.
 
 ---
 
@@ -113,11 +120,11 @@ Data_Science_Assignment-main/
 ├── DS_TypeFace_TMNIST_002834798.ipynb    # Neural network classification notebook
 ├── Data_Science_Assignment1_Ronak.ipynb  # Data cleaning and feature selection notebook
 ├── FINAL_REPORT_Ronak.ipynb              # Comprehensive report combining all tasks
+├── diabetes.csv                          # Dataset for AutoML and prediction
+├── netflix_titles.csv                    # Netflix dataset
 ├── Model_Interpretability_Ronak.ipynb    # Model interpretability notebook
 ├── NETFLIX_002834798.ipynb               # Netflix dataset analysis notebook
 ├── README.md                             # Repository documentation
-├── diabetes.csv                          # Dataset for AutoML and prediction
-├── netflix_titles.csv                    # Netflix dataset
 ```
 
 ---

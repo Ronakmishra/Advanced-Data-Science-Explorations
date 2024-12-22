@@ -1,10 +1,10 @@
-# Advanced Data Science Explorations
+# ✨ Advanced Data Science Explorations ✨
 
 This repository contains the projects and analyses completed for exploring and applying data science techniques. Each project demonstrates the application of methods including data cleaning, feature selection, AutoML, interpretability, and neural network classification, as well as custom-built tools for data science mentorship.
 
 ---
 
-## Table of Contents
+## 📚 Table of Contents
 
 - [Projects Overview](#projects-overview)
   - [Project 1: ML Data Cleaning and Feature Selection](#project-1-ml-data-cleaning-and-feature-selection)
@@ -16,13 +16,14 @@ This repository contains the projects and analyses completed for exploring and a
 - [Datasets](#datasets)
 - [How to Run](#how-to-run)
 - [File Structure](#file-structure)
+- [References](#references)
 - [License](#license)
 
 ---
 
-## Projects Overview
+## 🔍 Projects Overview
 
-### Project 1: ML Data Cleaning and Feature Selection
+### 🌟 Project 1: ML Data Cleaning and Feature Selection
 
 - **Objective**: Explore and clean a dataset, perform feature selection, and evaluate its quality for predictive modeling.
 - **Key Questions Addressed**:
@@ -30,58 +31,63 @@ This repository contains the projects and analyses completed for exploring and a
   - Feature importance using multiple methods.
   - Effect of outliers and data imputation techniques.
   - Evaluation of variable independence and predictor ranges.
-- **Notebook**: `Data_Science_Assignment1_Ronak.ipynb`
+- **Notebook**: [ML Data Cleaning and Feature Selection](https://github.com/Ronakmishra/Advanced-Data-Science-Explorations/blob/main/Data_Science_Assignment1_Ronak.ipynb)
 
-### Project 2: AutoML
+![Data Cleaning](https://media.giphy.com/media/3o7TKOxyw3e8X4Q88Q/giphy.gif)
+
+### 🤖 Project 2: AutoML
 
 - **Objective**: Use AutoML libraries (e.g., H2O.ai) to build predictive models and analyze their significance.
 - **Key Questions Addressed**:
   - Evaluation of model relationships and assumptions.
   - Multicollinearity and variable significance in multivariate models.
   - Impact of regularization and hyperparameter tuning.
-- **Notebook**: `AutoML_diabetesPrediction.ipynb`
+- **Notebook**: [AutoML](https://github.com/Ronakmishra/Advanced-Data-Science-Explorations/blob/main/AutoML_diabetesPrediction.ipynb)
 
-### Project 3: Model Interpretability
+### 🧠 Project 3: Model Interpretability
 
 - **Objective**: Interpret models using SHAP values and compare linear and tree-based models.
 - **Tasks**:
   - Fit and interpret linear and tree-based models.
   - Use AutoML to find the best model.
   - Perform SHAP analysis to understand feature importance.
-- **Notebook**: `Model_Interpretability_Ronak.ipynb`
+- **Notebook**: [Model Interpretability](https://github.com/Ronakmishra/Advanced-Data-Science-Ex)
 
-### Project 4: Comprehensive Report
+![SHAP Analysis](https://media.giphy.com/media/l3V0sNZ0NGomeurCM/giphy.gif)
+
+### 📊 Project 4: Comprehensive Report
 
 - **Objective**: Combine data cleaning, feature selection, modeling, and interpretability into a cohesive report.
 - **Tasks**:
   - Address key questions about the data and models.
   - Provide insights through tables, graphs, and charts.
-- **Notebook**: `FINAL_REPORT_Ronak.ipynb`
+- **Notebook**: [Comprehensive Report](https://github.com/Ronakmishra/Advanced-Data-Science-Explorations/blob/main/FINAL_REPORT_Ronak.ipynb)
 
-### Project 5: Neural Network Classification
+### 🔢 Project 5: Neural Network Classification
 
 - **Objective**: Build a neural network classifier for the TMNIST dataset.
 - **Tasks**:
   - Create a tutorial for TMNIST classification.
   - Achieve high accuracy (>90%) with unique methodology and clear explanations.
-- **Notebook**: `DS_TypeFace_TMNIST_002834798.ipynb`
+- **Notebook**: [Neural Network Classification](https://github.com/Ronakmishra/Advanced-Data-Science-Explorations/blob/main/DS_TypeFace_TMNIST_002834798.ipynb)
 
-### Project 6: CustomGPT
+![Neural Networks](https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif)
+
+### 🤖 Project 6: CustomGPT
 
 - **Objective**: Develop a CustomGPT for data science mentorship.
 - **Description**: A chatbot designed to guide students in data science concepts and projects.
+- **Link**: [CustomGPT - Data Science Mentor](https://chat.openai.com/g/g-SXjfXUTqo-data-science-mentor)
 
 ---
 
-## Datasets
-
-1. **IMDB Dataset** (`IMDB Dataset.csv`): Movie reviews for sentiment analysis.
+## 📁 Datasets
 2. **Diabetes Dataset** (`diabetes.csv`): Health data for predictive modeling.
 3. **Netflix Titles Dataset** (`netflix_titles.csv`): Data on Netflix shows and movies for analysis.
 
 ---
 
-## How to Run
+## 🚀 How to Run
 
 1. Clone this repository:
    ```bash
@@ -99,7 +105,7 @@ This repository contains the projects and analyses completed for exploring and a
 
 ---
 
-## File Structure
+## 📂 File Structure
 
 ```
 Data_Science_Assignment-main/
@@ -107,7 +113,6 @@ Data_Science_Assignment-main/
 ├── DS_TypeFace_TMNIST_002834798.ipynb    # Neural network classification notebook
 ├── Data_Science_Assignment1_Ronak.ipynb  # Data cleaning and feature selection notebook
 ├── FINAL_REPORT_Ronak.ipynb              # Comprehensive report combining all tasks
-├── IMDB Dataset.csv                      # Dataset for analysis
 ├── Model_Interpretability_Ronak.ipynb    # Model interpretability notebook
 ├── NETFLIX_002834798.ipynb               # Netflix dataset analysis notebook
 ├── README.md                             # Repository documentation
@@ -115,7 +120,9 @@ Data_Science_Assignment-main/
 ├── netflix_titles.csv                    # Netflix dataset
 ```
 
-## References
+---
+
+## 📖 References
 
 Help of various resources and references were taken. They are mentioned below:
 
@@ -137,7 +144,6 @@ Help of various resources and references were taken. They are mentioned below:
 
 ---
 
-## License
+## 📜 License
 
 This repository is licensed under the [MIT License](LICENSE).
-

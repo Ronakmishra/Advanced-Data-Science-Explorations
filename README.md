@@ -33,7 +33,7 @@ This repository contains the projects and analyses completed for exploring and a
   - Evaluation of variable independence and predictor ranges.
 - **Notebook**: [ML Data Cleaning and Feature Selection](https://github.com/Ronakmishra/Advanced-Data-Science-Explorations/blob/main/Data_Science_Assignment1_Ronak.ipynb)
 
-![Data Cleaning](https://media.giphy.com/media/3o7TKOxyw3e8X4Q88Q/giphy.gif)
+
 
 ### 🤖 Project 2: AutoML
 

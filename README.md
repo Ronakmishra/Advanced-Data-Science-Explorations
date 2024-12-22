@@ -6,18 +6,18 @@ This repository contains the projects and analyses completed for exploring and a
 
 ### 📚 Table of Contents
 
-- [Projects Overview](#projects-overview)
-  - [Project 1: ML Data Cleaning and Feature Selection](#project-1-ml-data-cleaning-and-feature-selection)
-  - [Project 2: AutoML](#project-2-automl)
-  - [Project 3: Model Interpretability](#project-3-model-interpretability)
-  - [Project 4: Comprehensive Report](#project-4-comprehensive-report)
-  - [Project 5: Neural Network Classification](#project-5-neural-network-classification)
-  - [Project 6: CustomGPT](#project-6-customgpt)
-- [Datasets](#datasets)
-- [How to Run](#how-to-run)
-- [File Structure](#file-structure)
-- [References](#references)
-- [License](#license)
+- [Projects Overview](#-projects-overview)
+  - [Project 1: ML Data Cleaning and Feature Selection](#-project-1-ml-data-cleaning-and-feature-selection)
+  - [Project 2: AutoML](#-project-2-automl)
+  - [Project 3: Model Interpretability](#-project-3-model-interpretability)
+  - [Project 4: Comprehensive Report](#-project-4-comprehensive-report)
+  - [Project 5: Neural Network Classification](#-project-5-neural-network-classification)
+  - [Project 6: CustomGPT](#-project-6-customgpt)
+- [Datasets](#-datasets)
+- [How to Run](#-how-to-run)
+- [File Structure](#-file-structure)
+- [References](#-references)
+- [License](#-license)
 
 ---
 
@@ -33,9 +33,7 @@ This repository contains the projects and analyses completed for exploring and a
   - Evaluation of variable independence and predictor ranges.
 - **Notebook**: [ML Data Cleaning and Feature Selection](https://github.com/Ronakmishra/Advanced-Data-Science-Explorations/blob/main/Data_Science_Assignment1_Ronak.ipynb)
 
-
-
-### 🤖 Project 2: AutoML
+### 🧐 Project 2: AutoML
 
 - **Objective**: Use AutoML libraries (e.g., H2O.ai) to build predictive models and analyze their significance.
 - **Key Questions Addressed**:
@@ -44,8 +42,6 @@ This repository contains the projects and analyses completed for exploring and a
   - Impact of regularization and hyperparameter tuning.
 - **Notebook**: [AutoML](https://github.com/Ronakmishra/Advanced-Data-Science-Explorations/blob/main/AutoML_diabetesPrediction.ipynb)
 
-
-
 ### 🧠 Project 3: Model Interpretability
 
 - **Objective**: Interpret models using SHAP values and compare linear and tree-based models.
@@ -53,9 +49,7 @@ This repository contains the projects and analyses completed for exploring and a
   - Fit and interpret linear and tree-based models.
   - Use AutoML to find the best model.
   - Perform SHAP analysis to understand feature importance.
-- **Notebook**: [Model Interpretability](https://github.com/Ronakmishra/Advanced-Data-Science-Ex)
-
-
+- **Notebook**: [Model Interpretability](https://github.com/Ronakmishra/Advanced-Data-Science-Explorations/blob/main/Model_Interpretability_Ronak.ipynb)
 
 ### 📊 Project 4: Comprehensive Report
 
@@ -65,8 +59,6 @@ This repository contains the projects and analyses completed for exploring and a
   - Provide insights through tables, graphs, and charts.
 - **Notebook**: [Comprehensive Report](https://github.com/Ronakmishra/Advanced-Data-Science-Explorations/blob/main/FINAL_REPORT_Ronak.ipynb)
 
-
-
 ### 🔢 Project 5: Neural Network Classification
 
 - **Objective**: Build a neural network classifier for the TMNIST dataset.
@@ -75,18 +67,15 @@ This repository contains the projects and analyses completed for exploring and a
   - Achieve high accuracy (>90%) with unique methodology and clear explanations.
 - **Notebook**: [Neural Network Classification](https://github.com/Ronakmishra/Advanced-Data-Science-Explorations/blob/main/DS_TypeFace_TMNIST_002834798.ipynb)
 
-
-
-### 🤖 Project 6: CustomGPT
+### 🧐 Project 6: CustomGPT
 
 - **Objective**: Develop a CustomGPT for data science mentorship.
 - **Description**: A chatbot designed to guide students in data science concepts and projects.
 - **Link**: [CustomGPT - Data Science Mentor](https://chat.openai.com/g/g-SXjfXUTqo-data-science-mentor)
 
-
 ---
 
-## 📁 Datasets
+## 💁️‍♀️ Datasets
 
 1. **Diabetes Dataset** (`diabetes.csv`): Health data for predictive modeling.
 2. **Netflix Titles Dataset** (`netflix_titles.csv`): Data on Netflix shows and movies for analysis.

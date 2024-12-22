@@ -4,7 +4,7 @@ This repository contains the projects and analyses completed for exploring and a
 
 ---
 
-## 📚 Table of Contents
+### 📚 Table of Contents
 
 - [Projects Overview](#projects-overview)
   - [Project 1: ML Data Cleaning and Feature Selection](#project-1-ml-data-cleaning-and-feature-selection)
@@ -82,7 +82,6 @@ This repository contains the projects and analyses completed for exploring and a
 - **Objective**: Develop a CustomGPT for data science mentorship.
 - **Description**: A chatbot designed to guide students in data science concepts and projects.
 - **Link**: [CustomGPT - Data Science Mentor](https://chat.openai.com/g/g-SXjfXUTqo-data-science-mentor)
-
 
 
 ---
